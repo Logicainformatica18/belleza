@@ -19,7 +19,7 @@ if (!class_exists("session")) {
     <meta name="description" content="Web Site Builder Description">
 
 
-    <title>Etética | Rosas</title>
+    <title>Estética | Rosas</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
