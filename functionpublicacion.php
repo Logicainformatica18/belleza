@@ -35,7 +35,7 @@ class publicacion extends connection
                     </div>
                     <!-- /.card-header -->
                     <div class="card-body" style="background-color:white">
-                        <table id="example1" class="table table-bordered table-striped table-responsive">
+                        <table id="example1" class="table table-striped table-responsive">
                             <thead>
                                 <tr>
                                     <th>Código</th>

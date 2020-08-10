@@ -73,17 +73,18 @@
 <script>
     $(function() {
         $("#example1").DataTable({
-            "responsive": true,
-            "autoWidth": false,
+            "responsive":false,
+            "autoWidth": true,
+           
         });
         $('#example2').DataTable({
-            "paging": true,
+            "paging": false,
             "lengthChange": false,
             "searching": false,
             "ordering": true,
             "info": true,
             "autoWidth": false,
-            "responsive": true,
+            "responsive": false,
         });
     });
 

@@ -126,16 +126,15 @@ if (!class_exists("session")) {
                     <li class="nav-item"><a class="nav-link link text-white display-4" href="login.php"><span
                                 class="mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn"></span>MI CUENTA</a>
                     </li>
-                    <li class="nav-item"><a class="nav-link link text-white display-4" href="catalogo.php"><span
-                                class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn"></span>MI CARRITO</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link link text-white display-4" href="catalogo.php"><span
+                                class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn"></span>MI CARRITO</a></li> -->
                 </ul>
 
             </div>
         </nav>
     </section>
 
-    <section class="engine"><a href="https://mobirise.info/y">html web
-            templates</a></section>
+   
 
     <section class="carousel slide
             cid-s2ofgq5dCX" data-interval="false" id="slider1-2e">
@@ -146,7 +145,7 @@ if (!class_exists("session")) {
             <div class="mbr-slider slide carousel" data-keyboard="false" data-ride="false" data-interval="false"
                 data-pause="false">
                 <div class="carousel-inner" role="listbox">
-                    <div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image:
+                    <div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image:
                             url(assets/images/mbr-1-1920x1280.jpg);">
                         <div class="container container-slide">
                             <div class="image_wrapper">
@@ -156,7 +155,7 @@ if (!class_exists("session")) {
                                         justify-content-center">
                                     <div class="col-10 align-left">
                                         <h2 class="mbr-fonts-style
-                                                display-1">Estetica Unisex</h2>
+                                                display-1">Estética Unisex</h2>
                                         <p class="lead mbr-text
                                                 mbr-fonts-style display-5">Encuentre
                                             su estilo que más le guste.</p>
@@ -169,11 +168,11 @@ if (!class_exists("session")) {
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image:
-                            url(assets/images/mbr-1889x1920.png);">
+                    <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image:
+                            url(https://www.mendozapost.com/files/image/172/172597/5b38c22f853f0.jpg);">
                         <div class="container container-slide">
                             <div class="image_wrapper">
-                                <div class="mbr-overlay"></div><img src="assets/images/mbr-1889x1920.png" alt=""
+                                <div class="mbr-overlay"></div><img src="https://www.mendozapost.com/files/image/172/172597/5b38c22f853f0.jpg" alt=""
                                     title="">
                                 <div class="carousel-caption
                                         justify-content-center">
