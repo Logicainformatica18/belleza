@@ -62,7 +62,7 @@ if (!class_exists("session")) {
                         </a>
                     </span>
                     <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-2"
-                            href="catalogo.php">Doriz</a></span>
+                            href="catalogo.php">Estética Rosas</a></span>
                 </div>
             </div>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
