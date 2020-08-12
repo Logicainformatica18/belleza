@@ -104,8 +104,8 @@
 
     <style>
         .fondo {
-            height: 200px;
-            background-image: url("https://www.academiadebellezazeus.com/t/uploads/hj0f17c39b99.jpg/1920/1200?maxcrop=1");
+            height: 70px;
+            background-color:#000
         }
     </style>
     <!-- <section class="engine"><a href="https://mobirise.info/x">free css templates</a></section> -->
