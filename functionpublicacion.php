@@ -154,10 +154,23 @@ $facebook_comment = "<div id='fb-root'></div>
 <script async defer crossorigin='anonymous' src='https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0'
     nonce='R392LXB9'></script>
 <div class='fb-comments' data-href='$page.php' data-numposts='5' data-width='100%'></div>";
+
+$disqus="<div id='disqus_thread'></div>
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://esteticasrosas-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript>
+";
+
 $facebook_compartir = "<div class='fb-like' data-href='$page.php' data-width='' data-layout='button_count'
     data-action='like' data-size='small' data-share='true'></div>";
 
-$contenido =$titulo_post. $php1 . "<h1 class='titulo_post'>$titulo</h1>$facebook_compartir <p>$post</p>$facebook_comment" . $php2;
+$contenido =$titulo_post. $php1 . "<h1 class='titulo_post'>$titulo</h1>$facebook_compartir <p>$post</p>$disqus" . $php2;
 
 file_put_contents("blog/$page.php", $contenido);
 
