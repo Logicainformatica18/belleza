@@ -144,7 +144,6 @@ class publicacion extends connection
           <meta http-equiv='X-UA-Compatible' content='IE=edge'>
           <meta name='generator' content='Mobirise v4.12.4, mobirise.com'>
           <meta name='viewport' content='width=device-width, initial-scale=1, minimum-scale=1'>
-          <link rel='shortcut icon' href='../assets/images/mbr-1-184x242.png' type='image/x-icon'>
           <meta name='description' content='Web Site Builder Description'>
           <title>$page</title>";
       $php1 = "<?php include ('head.php') ?>";
